@@ -43,8 +43,8 @@ To run this project, you will need:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chat-app.git
-    cd chat-app
+    git clone https://github.com/BrayanLanda/Chat-one-to-one.git
+    cd Chat-one-to-one
     ```
 
 2. Set up the environment variables for MongoDB in `application.yml` or `application.properties`:
@@ -98,4 +98,4 @@ To run this project, you will need:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+The license for this project has not been determined yet.
